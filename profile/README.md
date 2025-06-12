@@ -68,7 +68,7 @@ Sell your digital or physical goods. Think Etsy meets Patreon meets Shopify.
 
 ---
 
-### 🔗 **Velosync Cloud + Proxy System**
+### 🔗 **VeloSync Cloud + Proxy System**
 - Encrypted file storage  
 - Proxy/share your content across ChitterSync’s infrastructure  
 - Link services like OneDrive and Google Drive  
@@ -114,6 +114,27 @@ Customizable AI-style bots for your content, games, or server tools.
 
 🎉 **Holiday sales**: 15%–95% off, randomly rotated throughout the year.
 
+## 📦 Crates
+Crates are storage subscriptions or one time purchases you can use for VeloSync Cloud Storage
+###### Crates Require CSX to use, one time purchases will not increase the price of subscription, but subcription based will, unless purchased yearly or lifetime
+
+### One time Purchase
+| Price | Storage | 
+|-------|---------|
+| $2.49 | 10GBs |
+| $4.98 | 20GBs |
+| $7.47 | 30GBs |
+| $9.96 | 40GBs |
+##### once purchased these are yours to use, you must maintain a CSX subscription to continue using these Crates. Terms and Conditions Apply
+
+### Subscription Based
+| Pricing/recurrence | Storage | Benifits |
+|--------------------|---------|----------|
+| $2.49/Month | 40GB | every 3 months of the subscription being active and not missing a payment, users can gain an additional 30 GBs with no extra cost |
+| $4.99/Month | 80GB | every 3 months of the subscription being active and not missing a payment, users can gain an additional 60 GBs with no extra cost |
+
+###### Pricing is calculated for USD
+
 ---
 
 ## 🔮 Coming Soon
@@ -128,7 +149,7 @@ Customizable AI-style bots for your content, games, or server tools.
 ## 🛠️ Built With
 
 - **Node.js**, **React**, **GraphQL**, **Next.js**  
-- Encrypted **Velosync** cloud backend  
+- Encrypted **VeloSync** cloud backend  
 - Modular system with plugin/addon capabilities  
 - Designed by **Reach Studios (r7105)**  
 
