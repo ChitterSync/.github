@@ -167,7 +167,7 @@ We’re here to give people their voice, data, and power back.
 ## 📬 Contact & Updates
 
 - 💌 Contact: `contact@chittersync.com`  
-- 🧪 Dev Blog: [coming soon]  
+- 🧪 Dev Blog: [devs.chittersync.com/blog](https://devblog.chittersync.com)  
 - 🐛 Bug Reports: [GitHub Issues]  
 - 🌍 Launching: **2026–2028** *(Beta signups coming earlier!)*
 
