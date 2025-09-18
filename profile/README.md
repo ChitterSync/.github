@@ -1,12 +1,40 @@
 # 🐦 ChitterSync
 
-### Your world. Your content. Your rules.
+![ChitterSync Logo](https://github.com/ChitterSync/ResourceRepo/blob/e062ddd63cfbfae79e261d62d770b857647f78c6/Icons/ChitterSync/Assets/SVGs/ChitterSync%20Alt.svg)
+
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/chittersync/chittersyncapp)  
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/chittersync/chittersync/blob/main/LICENSE)  
+[![Node](https://img.shields.io/badge/Node.js-v20.0-brightgreen)](https://nodejs.org/)  
+[![React](https://img.shields.io/badge/React-v18.0-blue)](https://reactjs.org/)  
+[![GitHub Stars](https://img.shields.io/github/stars/chittersync/chittersyncapp?style=social)](https://github.com/yourrepo/chittersync)
+
+*Your world. Your content. Your rules.*
 
 **ChitterSync** is the next-generation social and content platform for creators, communities, and innovators.  
 We combine social media, e-commerce, content creation, and gaming ecosystems — **all without sacrificing privacy, control, or creativity.**
 
 No gatekeepers. No corporate meddling. **Full creator control.**  
 Built by creators, for creators.
+
+---
+
+## 📑 Table of Contents
+- [Mission](#-mission-a-better-internet)  
+- [Core Features](#-core-features)  
+  - [Gia: The Creator Network](#-gia-the-creator-network)  
+  - [Ecosystem Integrations](#-ecosystem-integrations)  
+  - [Gamers Welcome](#-gamers-welcome)  
+  - [ChitterSync Shop](#-chittersync-shop)  
+  - [VeloSync Cloud + Proxy System](#-velosync-cloud--proxy-system)  
+  - [ChitterHaven Havens](#-chitterhaven-havens)  
+  - [PreCorded Bots](#-precorded-bots)  
+  - [Privacy & Monetization](#-privacy--monetization)  
+- [Subscription Tiers](#-subscription-tiers)  
+- [Crates](#-crates)  
+- [Coming Soon](#-coming-soon)  
+- [Built With](#-built-with)  
+- [Join the Movement](#-join-the-movement)  
+- [Contact & Updates](#-contact--updates)  
 
 ---
 
@@ -38,6 +66,8 @@ Publish content your way — podcasts, videos, comics, music, movies, or livestr
 - Monetize with **sponsorships, subscriptions, and fan perks**  
 - **Creator-controlled ads** — your rules, your sponsors  
 
+[Learn More →](https://gia.chittersync.com/)
+
 ---
 
 ### 🌐 Ecosystem Integrations
@@ -46,6 +76,8 @@ Connect your content across multiple platforms:
 > Discord, Steam Workshop, Spotify, YouTube, TikTok, Apple Music, Bandcamp, Roblox, Twitch, Xbox, PlayStation, Oculus, Modrinth, CurseForge, and more.
 
 All content, all platforms — **one profile**.
+
+[Learn More →](https://cf.chittersync.com/learn)
 
 ---
 
@@ -56,6 +88,8 @@ Manage and share mods, plugins, and modpacks across games:
 - Mods for **Skyrim**, **Terraria**, **Escape from Tarkov**, etc.  
 - Sync with **Modrinth**, **CurseForge**, and **Steam Workshop**
 
+[Learn More →](https://nmugc.chittersync.com/learn)
+
 ---
 
 ### 🛍️ ChitterSync Shop
@@ -64,7 +98,9 @@ Sell digital or physical goods. Think **Etsy + Patreon + Shopify**.
 - Creator storefronts  
 - Membership perks  
 - Redeem gift cards (Twitch, YouTube, etc.)  
-- Sell **modpacks, merch, bots, assets, tools** and more  
+- Sell **modpacks, merch, bots, assets, tools**, and more  
+
+[Learn More →](https://chittersync.com/shop)
 
 ---
 
@@ -73,6 +109,8 @@ Sell digital or physical goods. Think **Etsy + Patreon + Shopify**.
 - Proxy/share your content seamlessly  
 - Connect **OneDrive** and **Google Drive**  
 - Deploy **PreCorded bots** with cloud hosting  
+
+[Learn More →](https://vs.chittersync.com/cloudservices)
 
 ---
 
@@ -83,6 +121,8 @@ Your community hub, your way.
 - Forums, live feeds, bot integrations, and game servers  
 - Launch micro-communities — free or premium  
 
+[Learn More →](https://ch.chittersync.com/)
+
 ---
 
 ### 🤖 PreCorded Bots
@@ -91,6 +131,8 @@ Custom AI-style bots for content, games, or servers.
 - Cloud hosting (up to 100 bots per user)  
 - For moderation, community interaction, and syncing with Gia  
 
+[Learn More →](https://vs.chittersync.com/precorded)
+
 ---
 
 ### 🛡️ Privacy & Monetization
@@ -98,6 +140,8 @@ Custom AI-style bots for content, games, or servers.
 - Monetize **on your terms**  
 - Accept donations, sponsorships, and run storefronts  
 - **Ads under creator control only**  
+
+[Learn More →](https://support.chittersync.com/forms/fyi/privacyandmonitization)
 
 ---
 
@@ -116,7 +160,8 @@ Custom AI-style bots for content, games, or servers.
 ---
 
 ## 📦 Crates
-Extra storage for VeloSync Cloud, via subscriptions or one-time purchases.
+
+Extra storage for VeloSync Cloud via subscriptions or one-time purchases.
 
 ### One-Time Purchase
 
@@ -127,7 +172,7 @@ Extra storage for VeloSync Cloud, via subscriptions or one-time purchases.
 | $7.47 | 30GB |
 | $9.96 | 40GB |
 
-> Once purchased, Crates are yours, but a CSX subscription is required to maintain access.  
+> Once purchased, Crates are yours, but a [CSX subscription](https://plans.chittersync.com/view/subscribe/5) is required to maintain access.  
 
 ### Subscription-Based
 
@@ -136,7 +181,8 @@ Extra storage for VeloSync Cloud, via subscriptions or one-time purchases.
 | $2.49/mo | 40GB | Gain +30GB every 3 months of uninterrupted subscription |
 | $4.99/mo | 80GB | Gain +60GB every 3 months of uninterrupted subscription |
 
-> Pricing in USD.
+> Pricing in USD.  
+[Learn More →](https://plans.chittersync.com/view/crates/)
 
 ---
 
@@ -149,7 +195,7 @@ Extra storage for VeloSync Cloud, via subscriptions or one-time purchases.
 ---
 
 ## 🛠️ Built With
-- **Node.js**, **React**, **GraphQL**, **Next.js**, **Tauri**
+- **Node.js**, **React**, **GraphQL**, **Next.js**, **Tauri**  
 - Encrypted **VeloSync** backend  
 - Modular plugin/addon system  
 - Developed by **Reach Studios (r7105)**  
