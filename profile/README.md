@@ -2,103 +2,102 @@
 
 ### Your world. Your content. Your rules.
 
-**ChitterSync** is a next-gen social and content platform designed for creators, communities, and innovators who are tired of being boxed in by ads, algorithms, and walled gardens. We're building a space that fuses social media, e-commerce, content creation, and gaming ecosystems — **without sacrificing privacy, control, or creativity.**
+**ChitterSync** is the next-generation social and content platform for creators, communities, and innovators.  
+We combine social media, e-commerce, content creation, and gaming ecosystems — **all without sacrificing privacy, control, or creativity.**
 
 No gatekeepers. No corporate meddling. **Full creator control.**  
 Built by creators, for creators.
 
 ---
 
-## 🌍 Our Mission: A Better Internet
+## 🌍 Mission: A Better Internet
 
-The internet used to be a playground for creativity, freedom, and connection.  
-Now it’s an ad-ridden mess of algorithms, censorship, and corporate control.
+The internet should be a playground for creativity, freedom, and connection.  
+Instead, it’s often riddled with ads, algorithms, and corporate control.
 
-**ChitterSync exists to flip the script.**
+**ChitterSync flips the script.**  
 
-We’re building a better internet—one where:
+Here, you get:
 
-- **You control your content**, not some algorithm
-- **Creators earn fairly** without selling their soul or user data
-- **Communities thrive** without being farmed for ad impressions
-- **Innovation wins** over surveillance capitalism
+- **Full control of your content** — not an algorithm  
+- **Fair monetization** — no selling your users’ data  
+- **Thriving communities** — free from ad farming  
+- **Innovation over surveillance capitalism**  
 
-This isn’t just another social network.  
-It’s a platform for people who still believe the internet should be **free, expressive, open**, and **fair**.
+This isn’t just another social network — it’s a platform for a **free, open, and expressive internet.**
 
 ---
 
 ## ✨ Core Features
 
-### 🎤 **Gia: The Creator Network**
-Publish your content your way — whether it’s a podcast, video series, comic, album, movie, or livestream.
+### 🎤 Gia: The Creator Network
+Publish content your way — podcasts, videos, comics, music, movies, or livestreams.
 
-- Launch **TV series, films, music**, books, comics, and more  
-- Create **labels** for structured media publishing  
-- Monetize through **sponsorships**, **subscriptions**, and **fan perks**  
-- **Creator-controlled ads** — your ads, your sponsors, your way  
+- Launch **TV series, films, albums, books, comics** and more  
+- Create **labels** to structure your media  
+- Monetize with **sponsorships, subscriptions, and fan perks**  
+- **Creator-controlled ads** — your rules, your sponsors  
 
 ---
 
-### 🌐 **Ecosystem Integrations**
-Seamlessly connect your content and identity with services like:
+### 🌐 Ecosystem Integrations
+Connect your content across multiple platforms:
 
-> **Discord, Steam Workshop, Spotify, YouTube, TikTok, Apple Music, Bandcamp, Roblox, Twitch, Xbox, PlayStation, Oculus, Modrinth, CurseForge**, and dozens more.
+> Discord, Steam Workshop, Spotify, YouTube, TikTok, Apple Music, Bandcamp, Roblox, Twitch, Xbox, PlayStation, Oculus, Modrinth, CurseForge, and more.
 
 All content, all platforms — **one profile**.
 
 ---
 
-### 🎮 **Gamers Welcome**
-ChitterSync is built with gamers in mind. Share, manage, and distribute:
+### 🎮 Gamers Welcome
+Manage and share mods, plugins, and modpacks across games:
 
-- Minecraft modpacks, plugins, and datapacks  
-- Mods for **Skyrim**, **Terraria**, **Escape from Tarkov**, and more  
-- Sync across platforms like **Modrinth**, **CurseForge**, and **Steam Workshop**
+- Minecraft: Modpacks, plugins, datapacks  
+- Mods for **Skyrim**, **Terraria**, **Escape from Tarkov**, etc.  
+- Sync with **Modrinth**, **CurseForge**, and **Steam Workshop**
 
 ---
 
-### 🛍️ **ChitterSync Shop**
-Sell your digital or physical goods. Think Etsy meets Patreon meets Shopify.
+### 🛍️ ChitterSync Shop
+Sell digital or physical goods. Think **Etsy + Patreon + Shopify**.
 
 - Creator storefronts  
 - Membership perks  
-- Gift card redemptions (Twitch, YouTube, etc.)  
+- Redeem gift cards (Twitch, YouTube, etc.)  
 - Sell **modpacks, merch, bots, assets, tools** and more  
 
 ---
 
-### 🔗 **VeloSync Cloud + Proxy System**
+### 🔗 VeloSync Cloud + Proxy System
 - Encrypted file storage  
-- Proxy/share your content across ChitterSync’s infrastructure  
-- Link services like OneDrive and Google Drive  
-- Build and deploy **PreCorded bots** with in-cloud hosting  
+- Proxy/share your content seamlessly  
+- Connect **OneDrive** and **Google Drive**  
+- Deploy **PreCorded bots** with cloud hosting  
 
 ---
 
-## 🏠 **ChitterHaven Havens**
+### 🏠 ChitterHaven Havens
 Your community hub, your way.
 
-- Own or join up to **250 Havens**  
+- Own/join up to **250 Havens**  
 - Forums, live feeds, bot integrations, and game servers  
-- Launch your own micro-community — free or premium  
+- Launch micro-communities — free or premium  
 
 ---
 
-## 🤖 **PreCorded Bots**
-Customizable AI-style bots for your content, games, or server tools.
+### 🤖 PreCorded Bots
+Custom AI-style bots for content, games, or servers.
 
-- Host bots in the cloud (up to 100 per user)  
-- Useful for moderation, community interaction, syncing with Gia content, and more  
+- Cloud hosting (up to 100 bots per user)  
+- For moderation, community interaction, and syncing with Gia  
 
 ---
 
-## 🛡️ **Privacy and Monetization Done Right**
-
-- We don’t track you. We don’t sell your data. Period.  
-- Monetize through **your rules**, not our ads.  
-- Accept **donations, sponsorships**, and run storefronts.  
-- **Creator-controlled ads** only — no forced third-party junk.  
+### 🛡️ Privacy & Monetization
+- No tracking. No data selling. Ever.  
+- Monetize **on your terms**  
+- Accept donations, sponsorships, and run storefronts  
+- **Ads under creator control only**  
 
 ---
 
@@ -106,68 +105,65 @@ Customizable AI-style bots for your content, games, or server tools.
 
 | Tier | Price | Highlights |
 |------|-------|------------|
-| **Basic** | Free | 1 Gia label, 2.5GB Velosync, 900 friends, 3 bots |
+| **Basic** | Free | 1 Gia label, 2.5GB VeloSync, 900 friends, 3 bots |
 | **Silver** | $2.49/mo or $19.99/yr | 3 labels, 5GB storage, unlimited friends |
 | **Gold** | $4.99/mo or $49.99/yr | 9 labels, 10GB storage, 25 bots |
 | **Diamond** | $7.49/mo or $74.99/yr | 18 labels, 15GB storage, 250 Havens |
-| **CSX (Lifetime Option!)** | $9.99/mo, $99.99/yr, or $299 lifetime | Unlimited labels, 100GB storage, 100 bots, SQL/cloud integration |
+| **CSX (Lifetime Option)** | $9.99/mo, $99.99/yr, or $299 lifetime | Unlimited labels, 100GB storage, 100 bots, SQL/cloud integration |
 
-🎉 **Holiday sales**: 15%–95% off, randomly rotated throughout the year.
+🎉 **Holiday sales:** 15–95% off, rotating throughout the year.
+
+---
 
 ## 📦 Crates
-Crates are storage subscriptions or one time purchases you can use for VeloSync Cloud Storage
-###### Crates Require CSX to use, one time purchases will not increase the price of subscription, but subcription based will, unless purchased yearly or lifetime
+Extra storage for VeloSync Cloud, via subscriptions or one-time purchases.
 
-### One time Purchase
-| Price | Storage | 
+### One-Time Purchase
+
+| Price | Storage |
 |-------|---------|
-| $2.49 | 10GBs |
-| $4.98 | 20GBs |
-| $7.47 | 30GBs |
-| $9.96 | 40GBs |
-##### once purchased these are yours to use, you must maintain a CSX subscription to continue using these Crates. Terms and Conditions Apply
+| $2.49 | 10GB |
+| $4.98 | 20GB |
+| $7.47 | 30GB |
+| $9.96 | 40GB |
 
-### Subscription Based
-| Pricing/recurrence | Storage | Benifits |
-|--------------------|---------|----------|
-| $2.49/Month | 40GB | every 3 months of the subscription being active and not missing a payment, users can gain an additional 30 GBs with no extra cost |
-| $4.99/Month | 80GB | every 3 months of the subscription being active and not missing a payment, users can gain an additional 60 GBs with no extra cost |
+> Once purchased, Crates are yours, but a CSX subscription is required to maintain access.  
 
-###### Pricing is calculated for USD
+### Subscription-Based
+
+| Pricing | Storage | Bonus |
+|---------|---------|-------|
+| $2.49/mo | 40GB | Gain +30GB every 3 months of uninterrupted subscription |
+| $4.99/mo | 80GB | Gain +60GB every 3 months of uninterrupted subscription |
+
+> Pricing in USD.
 
 ---
 
 ## 🔮 Coming Soon
-
-- **CommunityForge**: Seamless migration system for Discord/Reddit/Facebook/Forum users  
-- **Nebulae Integration**: AI-powered search and content discovery from Reach Studios  
-- **Creator Analytics Suite**: Full control over your stats, fans, and monetization data  
-- **Game Server Deployment Tools**: Launch and manage dedicated servers for your games directly from your ChitterHaven
+- **CommunityForge**: Migrate from Discord, Reddit, Facebook, or forums seamlessly  
+- **Nebulae Integration**: AI-powered search & content discovery  
+- **Creator Analytics Suite**: Full insights on fans, stats, and monetization  
+- **Game Server Deployment Tools**: Launch and manage game servers from ChitterHaven  
 
 ---
 
 ## 🛠️ Built With
-
-- **Node.js**, **React**, **GraphQL**, **Next.js**  
-- Encrypted **VeloSync** cloud backend  
-- Modular system with plugin/addon capabilities  
-- Designed by **Reach Studios (r7105)**  
+- **Node.js**, **React**, **GraphQL**, **Next.js**, **Tauri**
+- Encrypted **VeloSync** backend  
+- Modular plugin/addon system  
+- Developed by **Reach Studios (r7105)**  
 
 ---
 
 ## 🤝 Join the Movement
-
-ChitterSync isn’t just another social network — it’s a rebellion against the status quo.  
-We’re here to give people their voice, data, and power back.
+ChitterSync isn’t just a social platform — it’s a rebellion against the status quo.  
 
 > 🧠 **Creators. Gamers. Coders. Fans. Rebels.** Welcome home.
 
 ---
 
 ## 📬 Contact & Updates
-
-- 💌 Contact: `contact@chittersync.com`  
-- 🧪 Dev Blog: [devs.chittersync.com/blog](https://devblog.chittersync.com)  
-- 🐛 Bug Reports: [GitHub Issues]  
-- 🌍 Launching: **2026–2028** *(Beta signups coming earlier!)*
-
+- Email: `contact@chittersync.com`  
+- Dev Blog: [devs.chittersync.com/blog](https://devblog.chittersync.com)  
+- Launching: **2026–2028** (Beta signups earlier!)  
