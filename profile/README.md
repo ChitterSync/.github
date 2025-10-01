@@ -1,4 +1,4 @@
-# 🐦 ChitterSync
+# ChitterSync
 
 ![ChitterSync Logo](https://github.com/ChitterSync/ResourceRepo/blob/e062ddd63cfbfae79e261d62d770b857647f78c6/Icons/ChitterSync/Assets/SVGs/ChitterSync%20Alt.svg)
 
@@ -18,7 +18,7 @@ Built by creators, for creators.
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 - [Mission](#-mission-a-better-internet)  
 - [Core Features](#-core-features)  
   - [Gia: The Creator Network](#-gia-the-creator-network)  
@@ -38,7 +38,7 @@ Built by creators, for creators.
 
 ---
 
-## 🌍 Mission: A Better Internet
+## Mission: A Better Internet
 
 The internet should be a playground for creativity, freedom, and connection.  
 Instead, it’s often riddled with ads, algorithms, and corporate control.
@@ -56,9 +56,9 @@ This isn’t just another social network — it’s a platform for a **free, ope
 
 ---
 
-## ✨ Core Features
+## Core Features
 
-### 🎤 Gia: The Creator Network
+### Gia: The Creator Network
 Publish content your way — podcasts, videos, comics, music, movies, or livestreams.
 
 - Launch **TV series, films, albums, books, comics** and more  
