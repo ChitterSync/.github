@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/chittersync/chittersync/blob/main/LICENSE)  
 [![Node](https://img.shields.io/badge/Node.js-v20.0-brightgreen)](https://nodejs.org/)  
 [![React](https://img.shields.io/badge/React-v18.0-blue)](https://reactjs.org/)  
-[![GitHub Stars](https://img.shields.io/github/stars/chittersync/chittersyncapp?style=social)](https://github.com/yourrepo/chittersync)
+[![GitHub Stars](https://img.shields.io/github/stars/chittersync/chittersyncapp?style=social)](https://github.com/chittersync/chittersync)
 
 *Your world. Your content. Your rules.*
 
