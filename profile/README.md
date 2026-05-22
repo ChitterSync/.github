@@ -211,6 +211,8 @@ ChitterSync isn’t just a social platform — it’s a rebellion against the st
 
 ##  Contact & Updates
 - Email: [contact@chittersync.com](mailto:contact@chittersync.com)
-- Dev Blog: [devs.chittersync.com/blog](https://devblog.chittersync.com)  |  [![Instagram](https://img.shields.io/badge/Instagram-@ChitterSync-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chittersync?igsh=MWFwNTJmdWZ4MXpwMA==)
+- Dev Blog: [devs.chittersync.com/blog](https://devblog.chittersync.com)
 - Launching: Beta **2026–2028** 
  - Full Release Expected 2030-2034
+Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-@ChitterSync-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chittersync?igsh=MWFwNTJmdWZ4MXpwMA==)
