@@ -25,7 +25,7 @@ Built by creators, for creators.
   - [Ecosystem Integrations](#-ecosystem-integrations)  
   - [Gamers Welcome](#-gamers-welcome)  
   - [ChitterSync Shop](#-chittersync-shop)  
-  - [VeloSync Cloud + Proxy System](#-velosync-cloud--proxy-system)  
+  - [ChitterSync Cloud + Proxy System](#-chittersync-cloud--proxy-system)  
   - [ChitterHaven Havens](#-chitterhaven-havens)  
   - [PreCorded Bots](#-precorded-bots)  
   - [Privacy & Monetization](#-privacy--monetization)  
@@ -70,7 +70,7 @@ Publish content your way — podcasts, videos, comics, music, movies, or livestr
 
 ---
 
-### 🌐 Ecosystem Integrations
+### Ecosystem Integrations
 Connect your content across multiple platforms:
 
 > Discord, Steam Workshop, Spotify, YouTube, TikTok, Apple Music, Bandcamp, Roblox, Twitch, Xbox, PlayStation, Oculus, Modrinth, CurseForge, and more.
@@ -81,7 +81,7 @@ All content, all platforms — **one profile**.
 
 ---
 
-### 🎮 Gamers Welcome
+### Gamers Welcome
 Manage and share mods, plugins, and modpacks across games:
 
 - Minecraft: Modpacks, plugins, datapacks  
@@ -92,7 +92,7 @@ Manage and share mods, plugins, and modpacks across games:
 
 ---
 
-### 🛍️ ChitterSync Shop
+### ChitterSync Shop
 Sell digital or physical goods. Think **Etsy + Patreon + Shopify**.
 
 - Creator storefronts  
@@ -104,7 +104,7 @@ Sell digital or physical goods. Think **Etsy + Patreon + Shopify**.
 
 ---
 
-### 🔗 VeloSync Cloud + Proxy System
+### ChitterSync Cloud + Proxy System
 - Encrypted file storage  
 - Proxy/share your content seamlessly  
 - Connect **OneDrive** and **Google Drive**  
@@ -114,18 +114,18 @@ Sell digital or physical goods. Think **Etsy + Patreon + Shopify**.
 
 ---
 
-### 🏠 ChitterHaven Havens
+### ChitterHaven Havens
 Your community hub, your way.
 
 - Own/join up to **250 Havens**  
 - Forums, live feeds, bot integrations, and game servers  
-- Launch micro-communities — free or premium  
+- Launch micro-communities - free or premium  
 
 [Learn More →](https://ch.chittersync.com/)
 
 ---
 
-### 🤖 PreCorded Bots
+### PreCorded Bots
 Custom AI-style bots for content, games, or servers.
 
 - Cloud hosting (up to 100 bots per user)  
@@ -135,7 +135,7 @@ Custom AI-style bots for content, games, or servers.
 
 ---
 
-### 🛡️ Privacy & Monetization
+### Privacy & Monetization
 - No tracking. No data selling. Ever.  
 - Monetize **on your terms**  
 - Accept donations, sponsorships, and run storefronts  
@@ -145,7 +145,7 @@ Custom AI-style bots for content, games, or servers.
 
 ---
 
-## 💎 Subscription Tiers
+## Subscription Tiers
 
 | Tier | Price | Highlights |
 |------|-------|------------|
@@ -155,11 +155,11 @@ Custom AI-style bots for content, games, or servers.
 | **Diamond** | $7.49/mo or $74.99/yr | 18 labels, 15GB storage, 250 Havens |
 | **CSX (Lifetime Option)** | $9.99/mo, $99.99/yr, or $299 lifetime | Unlimited labels, 100GB storage, 100 bots, SQL/cloud integration |
 
-🎉 **Holiday sales:** 15–95% off, rotating throughout the year.
+ **Holiday sales:** 15–95% off, rotating throughout the year.
 
 ---
 
-## 📦 Crates
+##  Crates
 
 Extra storage for VeloSync Cloud via subscriptions or one-time purchases.
 
@@ -186,7 +186,7 @@ Extra storage for VeloSync Cloud via subscriptions or one-time purchases.
 
 ---
 
-## 🔮 Coming Soon
+##  Coming Soon
 - **CommunityForge**: Migrate from Discord, Reddit, Facebook, or forums seamlessly  
 - **Nebulae Integration**: AI-powered search & content discovery  
 - **Creator Analytics Suite**: Full insights on fans, stats, and monetization  
@@ -194,7 +194,7 @@ Extra storage for VeloSync Cloud via subscriptions or one-time purchases.
 
 ---
 
-## 🛠️ Built With
+##  Built With
 - **Node.js**, **React**, **GraphQL**, **Next.js**, **Tauri**  
 - Encrypted **VeloSync** backend  
 - Modular plugin/addon system  
@@ -202,14 +202,15 @@ Extra storage for VeloSync Cloud via subscriptions or one-time purchases.
 
 ---
 
-## 🤝 Join the Movement
+##  Join the Movement
 ChitterSync isn’t just a social platform — it’s a rebellion against the status quo.  
 
-> 🧠 **Creators. Gamers. Coders. Fans. Rebels.** Welcome home.
+>  **Creators. Gamers. Coders. Fans. Rebels.** Welcome home.
 
 ---
 
-## 📬 Contact & Updates
-- Email: `contact@chittersync.com`  
-- Dev Blog: [devs.chittersync.com/blog](https://devblog.chittersync.com)  
-- Launching: **2026–2028** (Beta signups earlier!)  
+##  Contact & Updates
+- Email: [contact@chittersync.com](mailto:contact@chittersync.com)
+- Dev Blog: [devs.chittersync.com/blog](https://devblog.chittersync.com)  |  [![Instagram](https://img.shields.io/badge/Instagram-@ChitterSync-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chittersync?igsh=MWFwNTJmdWZ4MXpwMA==)
+- Launching: Beta **2026–2028** 
+ - Full Release Expected 2030-2034
