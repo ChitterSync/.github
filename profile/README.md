@@ -110,7 +110,7 @@ Sell digital or physical goods. Think **Etsy + Patreon + Shopify**.
 - Connect **OneDrive** and **Google Drive**  
 - Deploy **PreCorded bots** with cloud hosting  
 
-[Learn More →](https://vs.chittersync.com/cloudservices)
+[Learn More →](https://cloud.chittersync.com/cloudservices)
 
 ---
 
@@ -131,7 +131,7 @@ Custom AI-style bots for content, games, or servers.
 - Cloud hosting (up to 100 bots per user)  
 - For moderation, community interaction, and syncing with Gia  
 
-[Learn More →](https://vs.chittersync.com/precorded)
+[Learn More →](https://cloud.chittersync.com/precorded)
 
 ---
 
@@ -149,7 +149,7 @@ Custom AI-style bots for content, games, or servers.
 
 | Tier | Price | Highlights |
 |------|-------|------------|
-| **Basic** | Free | 1 Gia label, 2.5GB VeloSync, 900 friends, 3 bots |
+| **Basic** | Free | 1 Gia label, 2.5GB ChitterSync Cloud, 900 friends, 3 bots |
 | **Silver** | $2.49/mo or $19.99/yr | 3 labels, 5GB storage, unlimited friends |
 | **Gold** | $4.99/mo or $49.99/yr | 9 labels, 10GB storage, 25 bots |
 | **Diamond** | $7.49/mo or $74.99/yr | 18 labels, 15GB storage, 250 Havens |
@@ -161,7 +161,7 @@ Custom AI-style bots for content, games, or servers.
 
 ##  Crates
 
-Extra storage for VeloSync Cloud via subscriptions or one-time purchases.
+Extra storage for ChitterSync Cloud Cloud via subscriptions or one-time purchases.
 
 ### One-Time Purchase
 
@@ -196,7 +196,7 @@ Extra storage for VeloSync Cloud via subscriptions or one-time purchases.
 
 ##  Built With
 - **Node.js**, **React**, **GraphQL**, **Next.js**, **Tauri**  
-- Encrypted **VeloSync** backend  
+- Encrypted **ChitterSync Cloud** backend  
 - Modular plugin/addon system  
 - Developed by **Reach Studios (r7105)**  
 
