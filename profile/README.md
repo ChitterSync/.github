@@ -216,3 +216,7 @@ ChitterSync isn’t just a social platform — it’s a rebellion against the st
  - Full Release Expected 2030-2034
 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-@ChitterSync-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chittersync?igsh=MWFwNTJmdWZ4MXpwMA==)
+
+Extra Info:
+- This is in very early access, do not expect anything to work how it should
+- this project is partially vibecoded
