@@ -1,222 +1,497 @@
 # ChitterSync
 
-![ChitterSync Logo](https://github.com/ChitterSync/ResourceRepo/blob/e062ddd63cfbfae79e261d62d770b857647f78c6/Icons/ChitterSync/Assets/SVGs/ChitterSync%20Alt.svg)
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/206038594?s=400&u=1720d92fa0ace5707bd40d183863935d07de254f&v=4" alt="ChitterSync Logo" width="140">
+</p>
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/chittersync/chittersyncapp)  
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/chittersync/chittersync/blob/main/LICENSE)  
-[![Node](https://img.shields.io/badge/Node.js-v20.0-brightgreen)](https://nodejs.org/)  
-[![React](https://img.shields.io/badge/React-v18.0-blue)](https://reactjs.org/)  
-[![GitHub Stars](https://img.shields.io/github/stars/chittersync/chittersyncapp?style=social)](https://github.com/chittersync/chittersync)
+<p align="center">
+  <strong>Make the internet easier and more secure.</strong>
+</p>
 
-*Your world. Your content. Your rules.*
-
-**ChitterSync** is the next-generation social and content platform for creators, communities, and innovators.  
-We combine social media, e-commerce, content creation, and gaming ecosystems — **all without sacrificing privacy, control, or creativity.**
-
-No gatekeepers. No corporate meddling. **Full creator control.**  
-Built by creators, for creators.
+<p align="center">
+  An interconnected ecosystem for communication, creators, communities, cloud services, gaming, and the open web.
+</p>
 
 ---
 
-## Table of Contents
-- [Mission](#-mission-a-better-internet)  
-- [Core Features](#-core-features)  
-  - [Gia: The Creator Network](#-gia-the-creator-network)  
-  - [Ecosystem Integrations](#-ecosystem-integrations)  
-  - [Gamers Welcome](#-gamers-welcome)  
-  - [ChitterSync Shop](#-chittersync-shop)  
-  - [ChitterSync Cloud + Proxy System](#-chittersync-cloud--proxy-system)  
-  - [ChitterHaven Havens](#-chitterhaven-havens)  
-  - [PreCorded Bots](#-precorded-bots)  
-  - [Privacy & Monetization](#-privacy--monetization)  
-- [Subscription Tiers](#-subscription-tiers)  
-- [Crates](#-crates)  
-- [Coming Soon](#-coming-soon)  
-- [Built With](#-built-with)  
-- [Join the Movement](#-join-the-movement)  
-- [Contact & Updates](#-contact--updates)  
+## About ChitterSync
+
+**ChitterSync** is an independent internet platform and ecosystem focused on giving people more control over their accounts, communities, content, privacy, and online identity.
+
+Instead of building another isolated social network, ChitterSync is building a collection of services designed to work together through one account and social ecosystem.
+
+Our priorities are simple:
+
+- **User control over platform control**
+- **Privacy by default**
+- **Minimal necessary data collection**
+- **No selling user data**
+- **Optional personalization instead of mandatory tracking**
+- **Creator-friendly monetization**
+- **Open integrations and APIs**
+- **Affordable subscriptions instead of feature ransom**
+- **An internet where anonymity remains an option**
+
+ChitterSync is still under active development. Features, limits, pricing, APIs, and service availability may change before stable releases.
 
 ---
 
-## Mission: A Better Internet
+# ChitterSync Ecosystem
 
-The internet should be a playground for creativity, freedom, and connection.  
-Instead, it’s often riddled with ads, algorithms, and corporate control.
+## GIA
 
-**ChitterSync flips the script.**  
+**GIA** is ChitterSync's creator and media platform.
 
-Here, you get:
+It is designed for creators publishing:
 
-- **Full control of your content** — not an algorithm  
-- **Fair monetization** — no selling your users’ data  
-- **Thriving communities** — free from ad farming  
-- **Innovation over surveillance capitalism**  
+- Videos
+- Livestreams
+- Music
+- Podcasts
+- Series
+- Films
+- Books
+- Comics
+- Other digital media
 
-This isn’t just another social network — it’s a platform for a **free, open, and expressive internet.**
+Creators can organize their work, build audiences, interact with communities, and monetize their content without paying for algorithmic advantages.
 
----
+ChitterSync's long-term creator payout target is:
 
-## Core Features
+**95% Creator / 3% Partner / 2% ChitterSync**
 
-### Gia: The Creator Network
-Publish content your way — podcasts, videos, comics, music, movies, or livestreams.
+GIA's optional subscription is currently planned around **$1.49/month**, with premium features that do **not** provide algorithmic preference.
 
-- Launch **TV series, films, albums, books, comics** and more  
-- Create **labels** to structure your media  
-- Monetize with **sponsorships, subscriptions, and fan perks**  
-- **Creator-controlled ads** — your rules, your sponsors  
+Discovery systems such as Hype are intended to give communities ways to surface creators without turning reach into a pay-to-win system.
 
-[Learn More →](https://gia.chittersync.com/)
-
----
-
-### Ecosystem Integrations
-Connect your content across multiple platforms:
-
-> Discord, Steam Workshop, Spotify, YouTube, TikTok, Apple Music, Bandcamp, Roblox, Twitch, Xbox, PlayStation, Oculus, Modrinth, CurseForge, and more.
-
-All content, all platforms — **one profile**.
-
-[Learn More →](https://cf.chittersync.com/learn)
+[Explore GIA →](https://gia.chittersync.com/)
 
 ---
 
-### Gamers Welcome
-Manage and share mods, plugins, and modpacks across games:
+## ChitterHaven
 
-- Minecraft: Modpacks, plugins, datapacks  
-- Mods for **Skyrim**, **Terraria**, **Escape from Tarkov**, etc.  
-- Sync with **Modrinth**, **CurseForge**, and **Steam Workshop**
+**ChitterHaven** is ChitterSync's communication and community platform.
 
-[Learn More →](https://nmugc.chittersync.com/learn)
+It combines real-time messaging with larger community spaces while integrating directly with the rest of ChitterSync.
 
----
+Planned and developing features include:
 
-### ChitterSync Shop
-Sell digital or physical goods. Think **Etsy + Patreon + Shopify**.
+- Direct messages
+- Group conversations
+- Havens
+- Channels
+- Voice and video
+- Screen sharing
+- Forums and community feeds
+- Moderation tools
+- Bots and integrations
+- Granular privacy controls
+- SocialSync integration
+- Cross-service presence
+- Community and game integrations
 
-- Creator storefronts  
-- Membership perks  
-- Redeem gift cards (Twitch, YouTube, etc.)  
-- Sell **modpacks, merch, bots, assets, tools**, and more  
+ChitterHaven is designed around giving users and community owners control without requiring invasive tracking.
 
-[Learn More →](https://chittersync.com/shop)
-
----
-
-### ChitterSync Cloud + Proxy System
-- Encrypted file storage  
-- Proxy/share your content seamlessly  
-- Connect **OneDrive** and **Google Drive**  
-- Deploy **PreCorded bots** with cloud hosting  
-
-[Learn More →](https://cloud.chittersync.com/cloudservices)
+[Explore ChitterHaven →](https://ch.chittersync.com/)
 
 ---
 
-### ChitterHaven Havens
-Your community hub, your way.
+## CommunityForge
 
-- Own/join up to **250 Havens**  
-- Forums, live feeds, bot integrations, and game servers  
-- Launch micro-communities - free or premium  
+**CommunityForge** is ChitterSync's community discovery, migration, and interoperability platform.
 
-[Learn More →](https://ch.chittersync.com/)
+Its goal is to make it easier to build or move communities without forcing everyone to start over.
 
----
+CommunityForge is planned to support connections and migrations involving platforms and services such as:
 
-### PreCorded Bots
-Custom AI-style bots for content, games, or servers.
+- Discord
+- Reddit
+- Traditional forums
+- Creator communities
+- Gaming communities
+- ChitterHaven
+- GIA
 
-- Cloud hosting (up to 100 bots per user)  
-- For moderation, community interaction, and syncing with Gia  
-
-[Learn More →](https://cloud.chittersync.com/precorded)
-
----
-
-### Privacy & Monetization
-- No tracking. No data selling. Ever.  
-- Monetize **on your terms**  
-- Accept donations, sponsorships, and run storefronts  
-- **Ads under creator control only**  
-
-[Learn More →](https://support.chittersync.com/forms/fyi/privacyandmonitization)
+CommunityForge will also help connect identities, projects, communities, and external platforms through the wider ChitterSync ecosystem.
 
 ---
 
-## Subscription Tiers
+## ChitterSync Cloud
 
-| Tier | Price | Highlights |
-|------|-------|------------|
-| **Basic** | Free | 1 Gia label, 2.5GB ChitterSync Cloud, 900 friends, 3 bots |
-| **Silver** | $2.49/mo or $19.99/yr | 3 labels, 5GB storage, unlimited friends |
-| **Gold** | $4.99/mo or $49.99/yr | 9 labels, 10GB storage, 25 bots |
-| **Diamond** | $7.49/mo or $74.99/yr | 18 labels, 15GB storage, 250 Havens |
-| **CSX (Lifetime Option)** | $9.99/mo, $99.99/yr, or $299 lifetime | Unlimited labels, 100GB storage, 100 bots, SQL/cloud integration |
+**ChitterSync Cloud** provides storage and infrastructure across the ecosystem.
 
- **Holiday sales:** 15–95% off, rotating throughout the year.
+Planned capabilities include:
 
----
+- Personal cloud storage
+- Application storage
+- Creator upload infrastructure
+- Game hosting
+- Service hosting
+- Secure file sharing
+- ChitterSync Nodes
+- Cross-service storage APIs
 
-##  Crates
+New accounts currently target a **10 GB starting allocation**, with additional capacity potentially becoming available through ChitterSync's community trust system.
 
-Extra storage for ChitterSync Cloud Cloud via subscriptions or one-time purchases.
+Creator infrastructure is separate from ordinary personal cloud storage.
 
-### One-Time Purchase
+GIA creators may receive upload limits of up to **250 GB per upload**, with higher trust levels requiring moderator review. Creator upload capacity is also subject to infrastructure and bandwidth abuse protections.
 
-| Price | Storage |
-|-------|---------|
-| $2.49 | 10GB |
-| $4.98 | 20GB |
-| $7.47 | 30GB |
-| $9.96 | 40GB |
-
-> Once purchased, Crates are yours, but a [CSX subscription](https://plans.chittersync.com/view/subscribe/5) is required to maintain access.  
-
-### Subscription-Based
-
-| Pricing | Storage | Bonus |
-|---------|---------|-------|
-| $2.49/mo | 40GB | Gain +30GB every 3 months of uninterrupted subscription |
-| $4.99/mo | 80GB | Gain +60GB every 3 months of uninterrupted subscription |
-
-> Pricing in USD.  
-[Learn More →](https://plans.chittersync.com/view/crates/)
+[Explore ChitterSync Cloud →](https://cloud.chittersync.com/)
 
 ---
 
-##  Coming Soon
-- **CommunityForge**: Migrate from Discord, Reddit, Facebook, or forums seamlessly  
-- **Nebulae Integration**: AI-powered search & content discovery  
-- **Creator Analytics Suite**: Full insights on fans, stats, and monetization  
-- **Game Server Deployment Tools**: Launch and manage game servers from ChitterHaven  
+## SocialSync
+
+**SocialSync** is the shared social layer connecting ChitterSync services.
+
+Rather than every ChitterSync product maintaining a completely separate friend system and identity graph, SocialSync provides common infrastructure for:
+
+- Friends
+- Friend requests
+- Presence
+- Invitations
+- Connected services
+- Privacy settings
+- User discovery
+- Cross-service identity
+
+Accounts use immutable internal UUIDs while users retain control over how they can be discovered and contacted.
 
 ---
 
-##  Built With
-- **Node.js**, **React**, **GraphQL**, **Next.js**, **Tauri**  
-- Encrypted **ChitterSync Cloud** backend  
-- Modular plugin/addon system  
-- Developed by **Reach Studios (r7105)**  
+## ChitterSync Hub
+
+The **ChitterSync Hub** is the central home for your ChitterSync account and connected services.
+
+It provides access to:
+
+- Your account
+- ChitterSync services
+- Connected applications
+- Active sessions
+- Privacy settings
+- SocialSync
+- Subscription management
+- Security controls
+
+One account. One identity. Multiple services.
 
 ---
 
-##  Join the Movement
-ChitterSync isn’t just a social platform — it’s a rebellion against the status quo.  
+## CSLynk
 
->  **Creators. Gamers. Coders. Fans. Rebels.** Welcome home.
+**CSLynk** connects gaming communities and ChitterSync's social ecosystem.
+
+It is being developed to provide features such as:
+
+- Cross-server friendships
+- ChitterSync account linking
+- Friend requests
+- Online status
+- Game invitations
+- Parties
+- Groups
+- Recent players
+- Notifications
+- Native in-game interfaces
+
+Minecraft support is currently one of CSLynk's primary development targets.
 
 ---
 
-##  Contact & Updates
-- Email: [contact@chittersync.com](mailto:contact@chittersync.com)
-- Dev Blog: [devs.chittersync.com/blog](https://devblog.chittersync.com)
-- Launching: Beta **2026–2028** 
- - Full Release Expected 2030-2034
-Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-@ChitterSync-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chittersync?igsh=MWFwNTJmdWZ4MXpwMA==)
+## Nebulae
 
-Extra Info:
-- This is in very early access, do not expect anything to work how it should
-- this project is partially vibecoded
+**Nebulae** is ChitterSync's browser and web-focused project.
+
+Its long-term goal is to create a browser experience that works naturally with ChitterSync while remaining focused on user control, privacy, discovery, and interoperability with the wider web.
+
+---
+
+## PreCorded
+
+**PreCorded** is ChitterSync's developer/code-oriented platform.
+
+It is intended to provide tools and infrastructure for developers building software, integrations, bots, and services within or alongside the ChitterSync ecosystem.
+
+---
+
+# AI & Agents
+
+## JAADE
+
+**JAADE — Jade The Better Bot** is an AI assistant and automation project developed under ChitterSync Studios.
+
+Jade is evolving beyond a Discord bot into an agent capable of interacting with tools and services on behalf of users.
+
+The project includes work around:
+
+- Conversational AI
+- Discord
+- Tool usage
+- Agent workflows
+- Moderation
+- Community management
+- Verification
+- Privacy controls
+- Local AI models
+- ChitterSync integrations
+
+Jade is designed to support locally hosted and independently operated AI models where practical.
+
+[View JAADE →](https://github.com/JAADEtheBetterBot/JAADEtheBetterBot)
+
+---
+
+# ChitterSync Studios
+
+**ChitterSync Studios** is the creative and development side of ChitterSync.
+
+Studios projects can exist independently while sharing technology, infrastructure, publishing, or development resources with the wider ChitterSync ecosystem.
+
+## Studio Divisions
+
+### Novance
+
+**Novance** is a ChitterSync Studios division focused on games, Minecraft projects, modding, and interactive experiences.
+
+Projects include work surrounding:
+
+- GradualMC
+- GradualMinigames
+- Minecraft plugins
+- Mods
+- Game systems
+- Experimental interactive projects
+
+**Novance →** *(add official website/GitHub link)*
+
+### JTBB
+
+**JTBB** is the division behind **JAADE / Jade The Better Bot** and related bot, AI, automation, and assistant projects.
+
+Its work includes Jade's Discord platform, AI systems, agent tooling, and integrations.
+
+[JTBB / JAADE →](https://github.com/JAADEtheBetterBot)
+
+### GradualMC
+
+**GradualMC** is a ChitterSync Studios gaming property focused primarily on Minecraft.
+
+Its ecosystem includes custom servers, original minigames, social integrations, cosmetics, progression systems, and ChitterSync/CSLynk connectivity.
+
+Current projects include:
+
+- GradualMinigames
+- Custom minigames
+- BedWars
+- Sumo
+- ColorTiles
+- TNT Run
+- Jabulon
+- Heatseeker
+- Custom Games
+- CSLynk integration
+
+**GradualMC →** *(add official website/GitHub link)*
+
+---
+
+# ChitterSync Accounts
+
+ChitterSync services are designed around a shared account system.
+
+A ChitterSync account can act as your identity across:
+
+**Hub → SocialSync → ChitterHaven → GIA → CommunityForge → Cloud → CSLynk → supported external services**
+
+Individual services can still apply their own permissions and privacy rules.
+
+The goal is convenience without forcing users to expose the same information everywhere.
+
+---
+
+# Privacy
+
+Privacy is a core architectural goal rather than a premium feature.
+
+ChitterSync aims to:
+
+- Collect only data necessary to operate its services
+- Keep additional personalization data **opt-in**
+- Never sell personal user data
+- Avoid unnecessary cross-service tracking
+- Allow users to remain anonymous where practical
+- Provide understandable privacy controls
+- Use encrypted communications where appropriate
+- Separate sensitive service data where possible
+- Give users control over discoverability
+
+Optional personalization may allow users to receive better recommendations or discovery results, but opting out should not prevent normal use of ChitterSync.
+
+---
+
+# Monetization
+
+ChitterSync uses a **freemium** model.
+
+The goal is to make the core ecosystem genuinely useful without requiring a subscription while offering inexpensive upgrades for people who want additional capacity or features.
+
+Current subscription direction:
+
+| Tier | Position |
+|---|---|
+| **CS Basic** | Free core ChitterSync experience |
+| **CSX Lite** | Entry-level paid upgrade |
+| **CSX** | Expanded ecosystem features |
+| **CSX Pro** | Advanced user and creator features |
+| **CSX Ultra** | Highest individual tier |
+| **CSX Business** | Multi-user business features |
+| **CSX Enterprise** | Organization-scale management and flexibility |
+| **CSX EDU** | Education-focused offering |
+
+Service-specific subscriptions may also exist for products such as **GIA**, **ChitterHaven**, and **CSLynk**.
+
+Pricing and included benefits are still being finalized and may change during development.
+
+---
+
+# CSX Tokens
+
+ChitterSync is developing **CSX Tokens** as a unified capacity system for certain infrastructure services.
+
+Current target conversion:
+
+**1 CSX Token = 2 GB Node RAM OR 25 GB Cloud Storage**
+
+Tokens may be usable for:
+
+- ChitterSync Nodes
+- Cloud storage
+- AI service priority
+- Gradual services
+- Other infrastructure-heavy ChitterSync features
+
+CSX Tokens are intended as service capacity rather than a cryptocurrency.
+
+---
+
+# Open Ecosystem
+
+ChitterSync is being designed to work with the rest of the internet rather than pretending other platforms do not exist.
+
+Planned integrations include services such as:
+
+- Discord
+- Minecraft
+- Modrinth
+- CurseForge
+- Steam
+- Twitch
+- YouTube
+- Spotify
+- GitHub
+- Game platforms
+- Creator platforms
+- External storage providers
+
+An open ChitterSync API is planned so developers can build their own integrations and applications.
+
+---
+
+# Technology
+
+Different ChitterSync services use different technology depending on their requirements.
+
+Technologies currently used across projects include:
+
+- TypeScript
+- JavaScript
+- React
+- Next.js
+- Node.js
+- PostgreSQL
+- Tauri
+- Java
+- Python
+- Docker
+- REST APIs
+- OAuth
+- WebSockets
+- Supabase
+- Wasabi
+
+ChitterSync is built as a collection of interoperable services rather than one giant application.
+
+---
+
+# Development Status
+
+> **ChitterSync is experimental and under active development.**
+
+Expect:
+
+- Bugs
+- Breaking API changes
+- Incomplete features
+- UI redesigns
+- Database migrations
+- Temporary outages
+- Changing limits
+- Changing pricing
+- Services being rewritten or replaced
+
+Some ChitterSync projects contain AI-assisted or AI-generated code. AI-generated contributions are reviewed and iterated on like other code, but early-access software should not be assumed production-ready.
+
+The broader ChitterSync ecosystem is targeting major public releases around **2027–2028**, although individual services and projects may become available earlier.
+
+---
+
+# Repositories & Divisions
+
+| Project | Purpose | Link |
+|---|---|---|
+| **ChitterSync** | Core ecosystem | [GitHub](https://github.com/ChitterSync) |
+| **ResourceRepo** | Shared ChitterSync branding and resources | [GitHub](https://github.com/ChitterSync/ResourceRepo) |
+| **JAADE / JTBB** | AI, bots and agent tooling | [GitHub](https://github.com/JAADEtheBetterBot) |
+| **Novance** | Games, modding and interactive projects | *Add link* |
+| **GradualMC** | Minecraft network and games | *Add link* |
+
+---
+
+# Philosophy
+
+ChitterSync isn't trying to trap people inside another walled garden.
+
+We're building an ecosystem where people can choose:
+
+- What they share
+- Who can find them
+- What services they use
+- Whether personalization is enabled
+- How their communities operate
+- How their content is distributed
+- How they monetize their work
+
+The platform should work for the user — not the other way around.
+
+> **Make the internet easier and more secure.**
+
+---
+
+# Contact & Updates
+
+**Website:** [chittersync.com](https://chittersync.com/)  
+**GitHub:** [github.com/ChitterSync](https://github.com/ChitterSync)  
+**Dev Blog:** [devblog.chittersync.com](https://devblog.chittersync.com/)  
+**Email:** [contact@chittersync.com](mailto:contact@chittersync.com)
+
+### Socials
+
+[![Instagram](https://img.shields.io/badge/Instagram-@ChitterSync-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chittersync)
+
+---
+
+<sub>
+ChitterSync is under active development. Product names, functionality, limits, pricing, branding, and release schedules are subject to change.
+</sub>
