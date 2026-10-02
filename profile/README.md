@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>The plan to make a more trustworthy internet experience!</strong>
+  <strong>The plan for a more trustworthy internet experience!</strong>
 </p>
 
 <p align="center">
