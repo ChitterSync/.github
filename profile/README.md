@@ -274,9 +274,9 @@ Its work includes Jade's Discord platform, AI systems, agent tooling, and integr
 
 [JTBB / JAADE →](https://github.com/JAADEtheBetterBot)
 
-### GradualMC
+### Gradual Series
 
-**GradualMC** is a ChitterSync Studios gaming property focused primarily on Minecraft.
+**Gradual Series** is a ChitterSync Studios gaming property focused primarily on Minecraft.
 
 Its ecosystem includes custom servers, original minigames, social integrations, cosmetics, progression systems, and ChitterSync/CSLynk connectivity.
 
@@ -293,7 +293,7 @@ Current projects include:
 - Custom Games
 - CSLynk integration
 
-**GradualMC →** *(add official website/GitHub link)*
+**Gradual Series →** *(add official website/GitHub link)*
 
 ---
 
@@ -455,7 +455,7 @@ The broader ChitterSync ecosystem is targeting major public releases around **20
 | **ResourceRepo** | Shared ChitterSync branding and resources | [GitHub](https://github.com/ChitterSync/ResourceRepo) |
 | **JAADE / JTBB** | AI, bots and agent tooling | [GitHub](https://github.com/JAADEtheBetterBot) |
 | **Novance** | Games, modding and interactive projects | [GitHub](https://github.com/NovanceModding) |
-| **GradualMC** | Minecraft network and games |  |
+| **Gradual Series** | Minecraft network and games |  |
 
 ---
 
