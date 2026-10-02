@@ -454,8 +454,8 @@ The broader ChitterSync ecosystem is targeting major public releases around **20
 | **ChitterSync** | Core ecosystem | [GitHub](https://github.com/ChitterSync) |
 | **ResourceRepo** | Shared ChitterSync branding and resources | [GitHub](https://github.com/ChitterSync/ResourceRepo) |
 | **JAADE / JTBB** | AI, bots and agent tooling | [GitHub](https://github.com/JAADEtheBetterBot) |
-| **Novance** | Games, modding and interactive projects | *Add link* |
-| **GradualMC** | Minecraft network and games | *Add link* |
+| **Novance** | Games, modding and interactive projects | [GitHub](https://github.com/NovanceModding) |
+| **GradualMC** | Minecraft network and games |  |
 
 ---
 
