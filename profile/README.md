@@ -264,7 +264,7 @@ Projects include work surrounding:
 - Game systems
 - Experimental interactive projects
 
-**Novance →** *(add official website/GitHub link)*
+[Novance →](https://github.com/NovanceModding)
 
 ### JTBB
 
@@ -293,7 +293,7 @@ Current projects include:
 - Custom Games
 - CSLynk integration
 
-**Gradual Series →** *(add official website/GitHub link)*
+[Gradual Series →](https://grad.chittersync.com)
 
 ---
 
@@ -455,7 +455,7 @@ The broader ChitterSync ecosystem is targeting major public releases around **20
 | **ResourceRepo** | Shared ChitterSync branding and resources | [GitHub](https://github.com/ChitterSync/ResourceRepo) |
 | **JAADE / JTBB** | AI, bots and agent tooling | [GitHub](https://github.com/JAADEtheBetterBot) |
 | **Novance** | Games, modding and interactive projects | [GitHub](https://github.com/NovanceModding) |
-| **Gradual Series** | Minecraft network and games |  |
+| **Gradual Series** | Minecraft network and games | [Official Site](https://grad.chittersync.com) |
 
 ---
 
